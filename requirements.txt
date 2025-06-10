@@ -1,0 +1,6 @@
+txt
+torch
+torchvision
+transformers
+datasets
+matplotlib
